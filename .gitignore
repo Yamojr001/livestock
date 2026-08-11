@@ -1,0 +1,18 @@
+# Mobile App Dependencies
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.env*.local
+.env
+.DS_Store
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.tsbuildinfo
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/build/
+flutter_linux_3.24.3-stable.tar.xz
